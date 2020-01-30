@@ -7,6 +7,12 @@
             "url": "https://github.com/wesbuck"
         },
         {
+            "type": "linkedin",
+            "title": "LinkedId",
+            "icon": "fa-linkedin",
+            "url": "https://www.linkedin.com/in/wesbuck/"
+        },
+        {
             "type": "devto",
             "title": "DEV",
             "icon": "fa-dev",
